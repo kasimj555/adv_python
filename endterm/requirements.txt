@@ -1,0 +1,4 @@
+# minimal
+pytest>=7.0
+aiofiles>=23.1
+asyncio
